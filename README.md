@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Ashaz Ahmad, and I'm an ambitious second-year Honours Computer Science student at McMaster University. I'm passionate about pushing the boundaries of technology and using my skills to positively impact those around me.
+Hello! My name is Ashaz Ahmad, and I'm an ambitious third-year Honours Computer Science student at McMaster University. I'm passionate about pushing the boundaries of technology and using my skills to positively impact those around me.
 
 
 # 💻 Tech Stack:
